@@ -1,5 +1,5 @@
 # Snake Game in HTML, CSS, and JavaScript
-* [play the game]([http://codeincomplete.com/projects/snakes/](https://codepen.io/hasan-cal/pens/public)
+* [play the game](https://codepen.io/hasan-cal/pen/MWLoror)
 
 Overview
 ========
