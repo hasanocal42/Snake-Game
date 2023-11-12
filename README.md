@@ -1,5 +1,5 @@
 # Snake Game in HTML, CSS, and JavaScript
-* file:///C:/Users/Administrateur/Desktop/Snake-Game/Snake-Game.html
+* [play the game]([http://codeincomplete.com/projects/snakes/](https://codepen.io/hasan-cal/pens/public))
 
 Overview
 
