@@ -1,5 +1,5 @@
 # Snake Game in HTML, CSS, and JavaScript
-* [play the game](file:///C:/Users/Administrateur/Desktop/Snake-Game/Snake-Game.html)
+* [play the game](file:///C:/Users/Administrateur/Desktop/Snake-Game/Snake-Game.html/)
 
 Overview
 
