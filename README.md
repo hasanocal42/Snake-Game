@@ -1,6 +1,7 @@
 # Snake Game in HTML, CSS, and JavaScript
+* [play the game](file:///C:/Users/Administrateur/Desktop/Snake-Game/Snake-Game.html)
 
-Overview.
+Overview
 
 Welcome to the Snake Game, a classic arcade game implemented with HTML, CSS, and JavaScript. This project brings back the nostalgia of the retro Snake Game, allowing you to play directly in your web browser.
 
